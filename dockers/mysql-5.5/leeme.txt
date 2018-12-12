@@ -1,0 +1,3 @@
+Para arrancar este docker-compose:
+
+docker-compose up -d
